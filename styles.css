@@ -1,0 +1,112 @@
+.b {
+    background-color: rgb(226, 238, 234);
+}
+
+li {
+    margin-right: 3px;
+}
+
+img {
+    height: 200px;
+}
+
+#form-image-container {
+    margin-top: 15px;
+}
+
+#image-form-row{
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#form{
+    display: flex;
+    align-items: center;
+}
+
+#pass, #email {
+    margin-top: 3px;
+}
+
+#login{
+    margin-top: 5px;
+}
+
+.image-form{
+    height: 100%;
+    border: 3px solid rgb(162, 156, 156);
+    border-radius: 50px;
+}
+
+.image-form#form {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+#image {
+    display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+#card1, #card2, #card3, #card4 {
+    background-color: rgb(194, 203, 240);
+}
+
+.cards-row {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 120px;
+    width: 100%;
+}
+
+#cards-container-2, #cards-container-1, #cards-container {
+    margin-top: 20px;
+}
+
+#card5, #card6 {
+    padding-top: 20px;
+    background-color: rgb(192, 239, 239);
+}
+
+#cards-container-2 {
+    border: 1px solid rgb(94, 160, 94);
+    border-radius: 8px;
+    background-color: rgb(160, 191, 160);
+}
+
+#click-me {
+    margin-top: 10px;
+}
+
+#result-container {
+    padding-top: 15px;
+}
+
+.cards#card2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards-row2, .cards-row1 {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 90px;
+    width: 100%;
+}
+
+#card7, #card8, #card9 {
+    text-align: center;
+    margin-top: 20px;
+    border: 3px solid black;
+    height: 50px;
+    background-color: rgb(157, 195, 160);
+    border-radius: 10px;
+}
